@@ -1,5 +1,5 @@
 module.exports = {
   x:() => {
-    return 2;
+    return 3;
   }
 }
